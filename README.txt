@@ -50,5 +50,5 @@ This project is unlicensed.
 
 -- Version History --
 
-- v1.0 (2024-04-19): Initial release.
+* v1.0 (2024-04-19): Initial release.
 

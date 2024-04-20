@@ -5,6 +5,8 @@ A Python program for managing savings accounts.
 
 -- Installation --
 
+* Download the AccountingAPP.zip file to ensure that the program will run successfully. If errors occur, see troubleshooting.
+
 * No installation needed! Just run the accountAPP program inside its directory.
 
 
